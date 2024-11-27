@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Muni\\Dev\\Cidi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|d:\\muni\\dev\\cidi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|d:\\muni\\dev\\cidi\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|solutionrelative:services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|d:\\muni\\dev\\cidi\\services\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|solutionrelative:services\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|d:\\muni\\dev\\cidi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FDA2A96-6D45-44FA-9CA8-BF60E2747C59}|Cidi.csproj|d:\\muni\\dev\\cidi\\entities\\procesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IUsuarioServices.cs",
               "DocumentMoniker": "D:\\Muni\\Dev\\Cidi\\Services\\IUsuarioServices.cs",
               "RelativeDocumentMoniker": "Services\\IUsuarioServices.cs",
@@ -114,8 +114,7 @@
               "RelativeToolTip": "Services\\IUsuarioServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T17:05:41.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T17:05:41.576Z"
             },
             {
               "$type": "Document",
@@ -131,16 +130,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioServices.cs",
               "DocumentMoniker": "D:\\Muni\\Dev\\Cidi\\Services\\UsuarioServices.cs",
               "RelativeDocumentMoniker": "Services\\UsuarioServices.cs",
               "ToolTip": "D:\\Muni\\Dev\\Cidi\\Services\\UsuarioServices.cs",
               "RelativeToolTip": "Services\\UsuarioServices.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAswEoAAAAMAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswDEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T23:10:15.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T23:10:15.284Z"
             },
             {
               "$type": "Document",
@@ -156,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\Muni\\Dev\\Cidi\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "D:\\Muni\\Dev\\Cidi\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB0AAABMAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB0AAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T00:26:52.61Z",
               "EditorCaption": ""

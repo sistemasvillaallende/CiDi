@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cidi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a5f841cef6a90453a4a48f11aefbc0a1f1fb931")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6404ad86284b6021530bdf9783eb2b1e7f709e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cidi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cidi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
